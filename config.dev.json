@@ -36,17 +36,17 @@
     "hideNotiMessage": true
   },
   "adminBot": [
-    "100050637524770"
+    "100089277422118"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "6772177669461691"
+      ""
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": " TeTo IA ",
-  "prefix": "√",
+  "nickNameBot": "💬>>𝙀𝙍𝙕𝘼",
+  "prefix": "-",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
